@@ -1,0 +1,9 @@
+.PhoneInfo {
+  border: 1px solid black;
+  padding: 8px;
+  margin: 8px;
+}
+
+.PhoneInfo-name {
+  font-weight: bold;
+}
